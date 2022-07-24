@@ -10,6 +10,7 @@ body{
   font-size: 2em;
   padding: 14px 60px;
   border-radius: 10px;
+  /* cursor:pointer effect gives you the finger symbol pointing on hovering and if not used then it will show regular mouse effect*/
   cursor: pointer;
   transition: 0.5s;
   opacity: 1;
